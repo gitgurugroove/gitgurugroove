@@ -65,7 +65,6 @@ Exploring AI in Testing: 🤖 Researching and prototyping the use of AI-powered 
 I'm always excited to connect with fellow engineers, share insights, and discuss the future of software testing and automation. If you're passionate about building high-quality software or have an exciting challenge, let's talk!
 
 📫 Contact:
-
 Email: 📧 sushilyadav0606@gmail.com
 LinkedIn: 💼 https://www.linkedin.com/in/sushil0606/
 Twitter: 🐦 https://twitter.com/dreamer_yadav
